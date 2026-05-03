@@ -1,0 +1,21 @@
+{
+  "medicines": [
+    {
+      "id": 1,
+      "name": "降压药",
+      "dosage": "2片",
+      "time": "17:00",
+      "image_path": "C:/Users/HP/Desktop/ims.png",
+      "enabled": true,
+      "created_at": "2026-05-03 16:59:34"
+    }
+  ],
+  "taking_history": {
+    "降压药_2026-05-03": {
+      "status": "taken",
+      "time": "17:00:18"
+    }
+  },
+  "emergency_phone": "",
+  "timeout_minutes": 20
+}
